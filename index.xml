@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenhua&#39;s website</title>
+    <link>https://ezrazw.github.io/</link>
+    <description>Recent content on Zhenhua&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Zhenhua Wang © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 14 Apr 2019 01:20:29 -0500</lastBuildDate>
+    
+	<atom:link href="https://ezrazw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ezrazw.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezrazw.github.io/about/</guid>
+      <description>Welcome message  My photo    Welcome to Zhenhua&amp;rsquo;s website. I&amp;rsquo;m currently pursuing my PhD degree under the supervision of Dr. David Blecher. I will serve as a Limited term assistant professor at UGA in the coming Fall (2019).</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://ezrazw.github.io/cv/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezrazw.github.io/cv/</guid>
+      <description>This is my resume.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ezrazw.github.io/research/</link>
+      <pubDate>Sun, 14 Apr 2019 01:20:29 -0500</pubDate>
+      
+      <guid>https://ezrazw.github.io/research/</guid>
+      <description>Research Interests Operator algebras, Jordan operator algebras, operator spaces, harmonic analysis, operator theory
+Publications    Author Title Journal &amp;amp; Pages     X. Jia, Z. Wang Periodic Solutions of Second Order Differential Equations Journal of Jilin University Science Edition 51(2) 2013, 164-168   D. Blecher, Z. Wang Roots in Banach and operator algebras J. Integral Equations Operator Theory 85 (2016), 63-90   D. Blecher, Z.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ezrazw.github.io/teaching/</link>
+      <pubDate>Sun, 14 Apr 2019 01:20:29 -0500</pubDate>
+      
+      <guid>https://ezrazw.github.io/teaching/</guid>
+      <description> Current Courses    Time Course Classnote Homework     2018 Fall 1314 Business Calculus 📓 📝    Previous Courses    Time Course Classnote Homework     2018 Spring 1314 Business Calculus     2018 Fall 1314 Business Calculus 📓 📝      </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://ezrazw.github.io/links/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ezrazw.github.io/links/</guid>
+      <description>Author and his friends.</description>
+    </item>
+    
+  </channel>
+</rss>
